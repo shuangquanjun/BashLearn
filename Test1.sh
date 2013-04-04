@@ -35,4 +35,7 @@ echo "$name checked in $date ago"
 echo "$name checked in $date1 ago"
 #compare date and date1 in file!
 
- 
+#the backtick"`" function
+echo "step 1: use backtick function"
+information=`date`
+echo $information
