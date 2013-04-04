@@ -23,4 +23,16 @@ echo "Home is :$HOME"
 #some use of variables
 echo "This book cost me $15"
 echo "This book cost me \$15"
+
+#user variable
+echo "customer check in"
+name="wujun.wang"
+days=10
+date=$days
+date1=days
+echo "$name checked in $days ago"
+echo "$name checked in $date ago"
+echo "$name checked in $date1 ago"
+#compare date and date1 in file!
+
  
